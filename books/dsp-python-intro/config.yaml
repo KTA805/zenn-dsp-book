@@ -1,0 +1,20 @@
+title: "PythonではじめるDSP・音声処理 実践入門"
+summary: "Pythonは書けるが音声処理は未経験のエンジニア向け。サンプリング定理からFFT、メルスペクトログラム、MFCC、音声分類まで、実際に手を動かしながら学ぶ実践入門書。Ch1〜Ch7は無料で読めます。"
+topics: ["python", "dsp", "音声処理", "機械学習", "信号処理"]
+published: false
+price: 500
+cover: ""
+chapters:
+  - intro
+  - ch01
+  - ch02
+  - ch03
+  - ch04
+  - ch05
+  - ch06
+  - ch07
+  - ch08
+  - ch09
+  - ch10
+  - ch11
+  - outro
