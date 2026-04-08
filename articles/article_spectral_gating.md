@@ -1,8 +1,5 @@
-# Spectral Gating in Python ― Noise Reduction Beyond Wiener Filter
+# スペクトルゲーティングをPythonで実装する ― スペクトル減算、Wienerフィルタとの違い
 
-topics: ["python", "dsp", "音声処理", "信号処理", "scipy"]
-
----
 
 ## はじめに
 
