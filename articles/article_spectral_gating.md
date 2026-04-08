@@ -1,5 +1,10 @@
-# スペクトルゲーティングをPythonで実装する ― スペクトル減算、Wienerフィルタとの違い
-
+---
+title: "スペクトルゲーティングをPythonで実装する ― スペクトル減算、Wienerフィルタとの違い"
+emoji: "🔊"
+type: "tech" # tech or idea
+topics: ["python", "dsp", "音声処理", "信号処理"]
+published: true
+---
 
 ## はじめに
 
