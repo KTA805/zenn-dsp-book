@@ -259,6 +259,7 @@ axes[-1].set_xlabel("Time [s]")
 plt.tight_layout()
 plt.show()
 ```
+<img width="1206" height="463" alt="image" src="https://github.com/user-attachments/assets/3d726a5a-a653-4207-918f-976b42bb9233" />
 
 ---
 
