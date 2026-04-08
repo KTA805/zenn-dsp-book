@@ -6,6 +6,8 @@ topics: ["python", "dsp", "音声処理", "信号処理"]
 published: true
 ---
 
+# スペクトルゲーティングをPythonで実装する ― スペクトル減算、Wienerフィルタとの違い
+
 ## はじめに
 
 スペクトル減算・Wienerフィルタに続く、より実用的なノイズ除去手法がスペクトルゲーティング（Spectral Gating）です。
