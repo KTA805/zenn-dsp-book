@@ -8,7 +8,7 @@ published: true
 
 ## はじめに
 
-スペクトル減算・Wienerフィルタに続く、より実用的なノイズ除去手法が**スペクトルゲーティング（Spectral Gating）**です。
+スペクトル減算・Wienerフィルタに続く、より実用的なノイズ除去手法がスペクトルゲーティング（Spectral Gating）です。
 
 Pythonの人気ノイズ除去ライブラリ [noisereduce](https://github.com/timsainburg/noisereduce) の中核アルゴリズムでもあります。
 
