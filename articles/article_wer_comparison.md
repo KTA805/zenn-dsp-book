@@ -1,8 +1,11 @@
-# Noise Reduction vs. ASR Accuracy ― Whisper + WER Comparison
-
-topics: ["python", "dsp", "音声処理", "whisper", "音声認識"]
-
 ---
+title: "ノイズ除去と音声認識精度の関係 ― Whisper + WERで比較"
+emoji: "🎤"
+type: "tech"
+topics: ["python", "dsp", "音声処理", "whisper", "音声認識"]
+published: true
+---
+# ノイズ除去と音声認識精度の関係 ― Whisper + WERで比較
 
 ## はじめに
 
