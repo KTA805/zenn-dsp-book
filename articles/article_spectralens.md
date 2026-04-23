@@ -236,4 +236,4 @@ Pythonのlibrosaで当たり前のように使っていた関数を、JavaScript
 👉 [Zennのプロフィール](https://zenn.dev/kta805)
 
 音声処理の基礎からMFCCまで体系的に学びたい方はこちらもどうぞ。
-👉 [Pythonではじめる音声処理 実践入門（Zenn本）](https://zenn.dev/kta805/books/BOOK_SLUG)
+👉 [Pythonではじめる音声処理 実践入門（Zenn本）](https://zenn.dev/kta805/books/dsp-python-intro)
